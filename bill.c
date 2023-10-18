@@ -22,7 +22,7 @@ void main(){
 struct Bill bill; /*Declaration of structure variable*/
 {printf("Fill up the following: \n");
 printf("First Name: ");
-scanf("%s",bill.firstName); 
+scanf("%s",bill.firstName);
 printf("Last Name: ");
 scanf("%s",bill.lastName);
 printf("\nAddress: ");
